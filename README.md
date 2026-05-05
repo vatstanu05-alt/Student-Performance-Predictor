@@ -1,2 +1,3 @@
 # Student-Performance-Predictor
 ML project that predicts student final grades using the UCI Student Performance Dataset — covering EDA, feature engineering, Linear Regression, Decision Tree &amp; Random Forest, and a live Streamlit web app.
+This project builds a machine learning pipeline to predict a student's final exam grade (G3) based on academic history, lifestyle, and demographic features. Built with Python and Scikit-learn, the project covers the complete ML workflow — data exploration, preprocessing, model training, evaluation, and a deployed interactive Streamlit web app. Key finding: including prior term grades (G1, G2) boosts model R² from 0.245 to 0.815, proving that past performance is the strongest predictor of future academic success.
